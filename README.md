@@ -44,4 +44,4 @@ Puedes encontrarme en:
 
 ---
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme.
+¡Gracias por visitar mi perfil! 

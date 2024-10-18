@@ -9,8 +9,8 @@ Soy un apasionado del desarrollo de software, actualmente estudiante de Ingenier
 - 🎓 Estudiante de Ingeniería de Software, cursando 4º semestre.
 - 🌱 Actualmente me enfoco en Java 17 y Spring Boot.
 - 🔭 He desarrollado un proyecto en colaboración con [Santiago Valencia](https://github.com/santiago971023) en arquitectura hexagonal: una API REST basada en una app de tareas (To Do App).
-- 🚀 Trabajo en un proyecto en colaboración con [Santiago Valencia](https://github.com/santiago971023) en arquitectura de microservicios para gestionar pedidos en un bar, utilizando diversas tecnologías y librerías.
-- ⚡ Me interesa la arquitectura de software, el desarrollo backend y las buenas prácticas en desarrollo de software.
+- 🚀 Trabajo en un proyecto en colaboración con [Santiago Valencia](https://github.com/santiago971023)  para gestionar pedidos en un bar, utilizando diversas tecnologías y librerías.
+
 
 ## Tecnologías y Herramientas
 
@@ -32,7 +32,7 @@ Soy un apasionado del desarrollo de software, actualmente estudiante de Ingenier
 - [Repositorio del Proyecto](https://github.com/santiago971023/demo-to-do)
 
 ### Sistema de Gestión de Pedidos para un Bar
-- **Descripción**: Proyecto en desarrollo utilizando arquitectura de microservicios para gestionar pedidos en un bar.
+- **Descripción**: Proyecto en desarrollo para gestionar pedidos en un bar.
 - **Tecnologías y Librerías**: Spring Boot, Spring Security, Lombok, MapStruct, MySQL, Spring Validation, JasperReports, entre otras.
 
 ## Contacto

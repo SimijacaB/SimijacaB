@@ -6,7 +6,7 @@ Soy un apasionado del desarrollo de software, actualmente estudiante de Ingenier
 
 ## Acerca de mí
 
-- 🎓 Estudiante de Ingeniería de Software, cursando 5º semestre.
+- 🎓 Estudiante de Ingeniería de Software, cursando 6º semestre.
 - 🌱 Actualmente me enfoco en Java 17 y Spring Boot.
 - 🔭 He desarrollado un proyecto en colaboración con [Santiago Valencia](https://github.com/santiago971023) en arquitectura hexagonal: una API REST basada en una app de tareas (To Do App).
 - 🚀 Trabajo en un proyecto en colaboración con [Santiago Valencia](https://github.com/santiago971023)  para gestionar pedidos en un bar, utilizando diversas tecnologías y librerías.
